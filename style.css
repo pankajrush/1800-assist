@@ -355,7 +355,7 @@
     margin: 14px 0;
 }
 .first-footer{
-    width: 100vw;
+/*     width: 100vw; */
     height: 250px;
     background-image: url("./image/back.svg");
     background-position: center;
@@ -393,7 +393,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 100vw;
+/*     width: 100vw; */
     height: 290px;
 }
 .second-footer p{
